@@ -50,7 +50,7 @@ Aᴍᴏᴜɴᴛ:</b> {num_codes}
             [
                 [
                     InlineKeyboardButton(
-                        "♻️ Redeem Here ♻️", url="http://t.me/OZIXSARCHING_BOT"
+                        "♻️ Redeem Here ♻️", url="http://t.me/OZIXSEARCHING_BOT"
                     )
                 ],
                 [InlineKeyboardButton("❕ Any Query ❕", url="https://t.me/OZIXCEO")],
